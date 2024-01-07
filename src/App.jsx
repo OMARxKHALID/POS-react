@@ -57,9 +57,6 @@ export default function App() {
           <Nav.Link href="#" className="text-dark">
             Products
           </Nav.Link>
-          <Nav.Link href="#" className="text-dark">
-            Sales History
-          </Nav.Link>
         </Nav>
       </Navbar>
 
