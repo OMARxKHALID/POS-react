@@ -1,10 +1,9 @@
-
 import React from 'react';
 import { Table, Button } from 'react-bootstrap';
 
 export default function ItemsList({ items, deleteItem }) {
   return (
-    <Table striped bordered hover className='mt-3'>
+<Table striped bordered hover responsive className='mt-3'>
       <thead className="thead-dark">
         <tr>
           <th>#</th>
